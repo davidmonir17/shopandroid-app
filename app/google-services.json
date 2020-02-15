@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "149378049169",
+    "firebase_url": "https://skypee-73e4a.firebaseio.com",
+    "project_id": "skypee-73e4a",
+    "storage_bucket": "skypee-73e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149378049169:android:6a62fc6b97d48caf",
+        "android_client_info": {
+          "package_name": "com.example.tonytech.david_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149378049169-u8ihtefablf7geeo3mk26ulfhtrpai0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tonytech.david_project",
+            "certificate_hash": "42087fd01fec8ba1d6ffe35a9428910a40e28b01"
+          }
+        },
+        {
+          "client_id": "149378049169-m6v5tnhbj3cofagvo0n5tf1535d7mn22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdNXsb2EfAIdt5qtWbozxJSHGUMYjN1k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149378049169-m6v5tnhbj3cofagvo0n5tf1535d7mn22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

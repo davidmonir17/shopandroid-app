@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Options">
+        <menu>
+            <item
+                android:id="@+id/search_text"
+                android:icon="@drawable/search"
+                android:title="Search Text" />
+        <item
+            android:id="@+id/nav_voice"
+            android:icon="@drawable/voice"
+            android:title="Search Voice" />
+        <item
+            android:id="@+id/nav_barcode"
+            android:icon="@drawable/barcode"
+            android:title="search Bar" />
+            <item
+                android:id="@+id/cart"
+                android:icon="@drawable/cart"
+                android:title="Cart" />
+
+        </menu>
+        </item>
+    </group>
+
+    <item android:title="Catiegories">
+        <menu>
+            <item
+                android:id="@+id/Cat_Clothes"
+                android:icon="@drawable/clothes"
+                android:title="Cloathes" />
+            <item
+                android:id="@+id/Cat_Mob"
+                android:icon="@drawable/mob"
+                android:title="Mobile" />
+            <item
+                android:id="@+id/Cat_shoes"
+                android:icon="@drawable/shoe"
+                android:title="shoes" />
+        </menu>
+    </item>
+
+</menu>
